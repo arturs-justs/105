@@ -2,7 +2,7 @@
 # Funkcija exp(x)
 # Autors: Artūrs Justs
 # Apliecibas numurs : 193NEB005
-# Datums: 17.01.2020
+# Datums: 18.01.2020
 
 import math
 
